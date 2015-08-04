@@ -1,0 +1,108 @@
+div {
+    line-height:140%;
+}
+
+
+p {
+    font-family: "helvitica";
+    font-size: 16px;
+}
+
+.name {
+	height: 120px;
+	width: 100%;
+	font-family:"helvitica";
+	background-color:#d3d3d3;
+	font-size: 42px;
+	font-weight: bold;
+	color:#006666;
+	border: solid #993366;
+}
+
+img {
+	border:transparent;
+	width:100px;
+	height:100px;
+	text-align: middle;
+	margin: 8px 10px 5px 20px;
+}
+
+td {
+	font-family:"helvitica";
+	font-size:16px;
+}
+
+i.tiny {
+	color: #006666;
+}
+
+p.job {
+	font-size:20px;
+	font-family:"helvitica";
+	font-style: italic;
+	color: black;
+	padding: 15px 10px 0px 0px;
+
+}
+
+p.employer {
+	font-size:20px;
+	font-family:"helvitica";
+	font-style: bold;
+	color: #669999;
+	text-transform: uppercase;
+	padding-bottom: 0px;
+	padding-top: 0px;
+
+}
+
+p.location {
+	font-size:16px;
+	font-family:"helvitica";
+	color: #993366;
+	padding: 0px 10px 0px 0px;
+}
+
+.experience {
+	line-height: 120%;
+	font-family: "helvitica";
+}
+
+.education p {
+	line-height: 120%;
+}
+
+p.section {
+	padding-top: 20px;
+	text-transform: uppercase;
+	color: #7f7f7f;
+	text-size: 20px;
+	font-family:"helvitica";
+	text-decoration:underline;
+}
+
+p.school-title {
+	color: #993366;
+	font-family:"helvitica";
+	font-size: 20px;
+	font-style: italic;
+
+}
+
+p.degree {
+	color: black;
+	font-family:"helvitica";
+	font-size: 16px;
+}
+
+p.gpa {
+	font-family: "helvitica";
+	font-size: 14px;
+}
+
+.volunteer li {
+	font-family:"helvitica";
+	font-size: 16px;
+	line-height:160%;
+	text-align: middle;
+}
